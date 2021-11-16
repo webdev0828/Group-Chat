@@ -24,7 +24,7 @@
 	"homepage": "https://github.com/uzochukwueddie/footballkik#readme",
 	"dependencies": {
 		"async": "^2.5.0",
-		"aws-sdk": "^2.403.0",
+		"aws-sdk": "^2.814.0",
 		"axios": "^0.18.0",
 		"bcrypt-nodejs": "0.0.3",
 		"body-parser": "^1.18.3",
