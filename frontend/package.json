@@ -34,7 +34,7 @@
 		"cookie-parser": "^1.4.3",
 		"dependable": "^0.2.5",
 		"ejs": "^2.5.7",
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"express-promise-router": "^2.0.0",
 		"express-session": "^1.15.6",
 		"express-validator": "^3.2.1",
